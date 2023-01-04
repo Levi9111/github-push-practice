@@ -36,3 +36,14 @@ p {
     line-height: 1rem;
 
 }
+
+
+.secondBranch{
+    text-align: center;
+    font-size: 2rem;
+    padding: 4rem;
+    margin: 4rem;
+    background-color: #0c305a9a;
+    line-height: 3rem;
+    color: rgb(148, 30, 46);
+}
